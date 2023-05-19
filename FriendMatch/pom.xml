@@ -15,8 +15,8 @@
 			<version>21.1.0.0</version>
 		</dependency>
 		<dependency>
-			<groupId>br.com.fiap.jpa</groupId>
-			<artifactId>06-Jpa-Relacionamentos</artifactId>
+			<groupId>br.com.fiap.cp/groupId>
+			<artifactId>FriendMatch</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
     </dependencies>
